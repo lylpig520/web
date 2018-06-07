@@ -1,0 +1,168 @@
+.*{
+	margin: 0;
+	padding: 0;
+}
+.layout{
+	width: 1024px;
+	height: 100vh;
+	background-color: #192314;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+}
+.right{
+	width: 652px;
+	height: 500px;
+	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/slider/beosound-shape/green-beosound-shape-desktop.jpg?mw=1497&hash=3CD3395D62EDE0448FCF5DE0402C83DE018A3C6A);
+	background-size: 652px auto;
+	float: right;
+}
+.left{
+	width: 512px;
+	height: 208px;
+	position: absolute;
+	left: 100px;
+	top: 60px;
+}
+.first{
+	margin-top: 100px;
+	margin-bottom: 10px;
+	font-size: 11px;
+    letter-spacing: 2px;
+    line-height: 24px
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Gotham SSm A","Gotham SSm B";
+    color: #fff;
+}
+.second{
+	margin-top: 10px;
+	margin-bottom: 12px;
+	font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 4px;
+    color: #fff;
+}
+.third{
+	font-size: 13px;
+    font-weight: 300;
+    line-height: 21px;
+    font-family: "Gotham SSm A","Gotham SSm B";
+	margin-bottom: 19.500px;
+	 color: #fff;
+}
+.fourth{
+	margin: 8px 0;
+}
+.button{
+	display: block;
+	width: 202px;
+	padding: 12px 35px;
+	background-color: rgba(48,57,44,1);
+	text-decoration: none;
+	color: #fff;
+}
+.button:hover{
+	color: #000;
+	background-color: #fff;
+}
+.top{
+	width: 980px;
+	height: 57px;
+	padding: 0 22px;
+	overflow: hidden;
+}
+.pdc{
+	width: 150px;
+	height: 57px;
+	float: left;
+	position: relative;
+}
+.type{
+	display: block;
+	position: absolute;
+	top: 21px;
+	margin-right: 50px;
+}
+.a{
+	margin: 0 auto;
+	width: 215px;
+	height: 41px;
+	padding: 12px;
+}
+.title{
+	display: block;
+	width: 191px;
+	height: 17px;
+	padding: 12px;
+	font-weight: 2px;
+	font-size: 20px;
+	font-weight: 1000;
+	text-decoration: none;
+	background-color: rgba(25,35,20,1);
+	color: #fff;
+}
+.menu{
+	width: 150px;
+	height: 57px;
+	position: absolute;
+	top: 0;
+	right: 22px;
+	position: absolute;
+	right: 50px;
+}
+.order{
+	display: block;
+	position: absolute;
+	top: 21px;
+	right: 50px;
+}
+.bottom{
+	width: 1024px;
+	height: 643px;
+	margin: 0 auto;
+	margin-top: -100px;
+	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/slider/harmonies/1350/img-bg-1350.jpg);
+	background-size: 100% auto;
+}
+.component{
+	width: 700px;
+	height: 380px;
+	padding: 50px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.c1{
+	width: 200px;
+	height: 300px;
+	padding: 15px 12px 25px 20px;
+	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/slider/beovision-eclipse/beovision-eclipse-frontpage-brass-smoked-oak-2.jpg);
+	background-size: 100% auto;
+	position: relative;
+	z-index: 50;
+	float: left;
+}
+.c2{
+	width: 200px;
+	height: 300px;
+	padding: 15px 12px 25px 20px;
+	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/slider/beoplay-p6/beoplay-p6-8.jpg);
+	background-size: 100% auto;
+	position: relative;
+	z-index: 50;
+	float: left;
+}
+.c3{
+	width: 200px;
+	height: 300px;
+	padding: 15px 12px 25px 20px;
+	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/slider/earset/earset-subtile1.jpg);
+	background-size: 100% auto;
+	position: relative;
+	z-index: 50;
+	float: left;
+}
+h3{
+	color: #fff;
+	font-family: normal;
+}
